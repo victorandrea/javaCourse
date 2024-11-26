@@ -1,4 +1,4 @@
-package com.semnaticsquare.thrillio.entities;
+package com.semanticsquare.thrillio.entities;
 
 import com.semanticsquare.thrillio.constants.MovieGenre;
 import com.semanticsquare.thrillio.entities.Bookmark;
