@@ -1,4 +1,4 @@
-package com.semanticsquare.thrillio.entities;
+package test.com.semanticsquare.thrillio.entities;
 
 import com.semanticsquare.thrillio.entities.WebLink;
 import com.semanticsquare.thrillio.managers.BookmarkManager;

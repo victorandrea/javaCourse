@@ -1,4 +1,4 @@
-package com.semnaticsquare.thrillio.entities;
+package test.com.semanticsquare.thrillio.entities;
 
 import com.semanticsquare.thrillio.constants.BookGenre;
 import com.semanticsquare.thrillio.entities.Book;
