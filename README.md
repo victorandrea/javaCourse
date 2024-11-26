@@ -1,2 +1,2 @@
 # javaCourse
-My follow up course on Java
+My java course progress.
